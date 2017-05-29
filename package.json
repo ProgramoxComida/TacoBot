@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/ProgramoxComida/TacoBot/issues"
   },
-  "homepage": "https://github.com/ProgramoxComida/TacoBot#readme"
+  "homepage": "https://github.com/ProgramoxComida/TacoBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.3",
+    "restify": "^4.3.0"
+  }
 }
