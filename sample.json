@@ -1,0 +1,21 @@
+{
+  "type": "message",
+  "text": "Yo soy Taco Bot, su proveedor de informacion sobre Tacos!\n Mi proposito en la vida es ayuarte a encontrar informacion sobre los mejores tacos en la Ciudad de Mexico.",
+  "locale": "en-US",
+  "localTimestamp": "2017-06-04T01:33:19-05:00",
+  "from": {
+    "id": "default-bot",
+    "name": "Bot"
+  },
+  "recipient": {
+    "id": "default-user"
+  },
+  "inputHint": "ignoringInput",
+  "id": "03h3g01an8d448hml",
+  "replyToId": "4dgjk5cjghd9h1ehjc",
+  "channelId": "emulator",
+  "timestamp": "2017-06-04T06:33:19.217Z",
+  "conversation": {
+    "id": "n8e8fld2g88331c6i"
+  }
+}

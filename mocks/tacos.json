@@ -1,0 +1,134 @@
+{
+    "places": [
+        {
+            "name": "Taquería las Tias",
+            "address": "Insurgentes Sur 756",
+            "rank": 5,
+            "lat": 55.665,
+            "lng": 99.569,
+            "media": {
+                "header": "/img/default.jpg",
+                "menu": [
+                    "/img/taco_bistec.jpg",
+                    "/img/taco_cecina.jpg",
+                    "/img/taco_costilla.jpg",
+                    "/img/taco_pastor.jpg",
+                    "/img/taco_pechuga.jpg",
+                    "/img/taco_suadero.jpg",
+                    "/img/taco_tripa.jpg",
+                    "/img/taco_chorizo.jpg"
+                ]
+            },
+            "commets": [
+                "Sin duda México esta a al vanguardia en Tacos al Pastor, gracias a estas personas que enorgullecen a México con tan deliciosos tacos al pastor - Enrique Peña Nieto",
+                "Fui con Isaac de COW y terminamos comiendo 4 kilos de pastor - Martin Iglesias",
+                "Los mejores tacos que he probado, aunque estan escondidos - Tatiana Valencía",
+                "No soy muy fan de los tacos al pastor pero estos superaron las expectativas - Eleonora"
+            ],
+            "type": ["Pastor", "Suadero", "Bistec", "Lengua", "Sesos", "Tripa"]
+        },
+        {
+            "name": "Taquería Don Teo",
+            "address": "Insurgentes Sur 756",
+            "rank": 4.5,
+            "lat": 55.665,
+            "lng": 99.569,
+            "media": {
+                "header": "/img/default.jpg",
+                "menu": [
+                    "/img/taco_bistec.jpg",
+                    "/img/taco_costilla.jpg",
+                    "/img/taco_pastor.jpg",
+                    "/img/taco_pechuga.jpg",
+                    "/img/taco_suadero.jpg"
+                ]
+            },
+            "commets": [
+                "Las gringas de Suadero son lo mejor si pides fritito el suadero - Adair",
+                "Los de Suadero con esa salsa roja y un boing, huy papa son lo mejor!!! - Marco Ramirez"
+            ],
+            "type": ["Pastor", "Suadero", "Bistec", "Pechuga", "Costilla"]
+        },
+        {
+            "name": "Los de la Central",
+            "address": "Insurgentes Sur 756",
+            "rank": 4,
+            "lat": 55.665,
+            "lng": 99.569,
+            "media": {
+                "header": "/img/default.jpg",
+                "menu": [
+                    "/img/taco_bistec.jpg",
+                    "/img/taco_costilla.jpg",
+                    "/img/taco_pastor.jpg",
+                    "/img/taco_pechuga.jpg",
+                    "/img/taco_suadero.jpg"
+                ]
+            },
+            "commets": [
+                "Recomiendo la torta de Pastor y los de Bistec - Roxana Arizpe",
+                "Un amigo nos recomendo estos tacos, y no fallo al recomendarlos - Ana Luisa"
+            ],
+            "type": ["Pastor", "Suadero", "Bistec", "Pechuga", "Costilla"]
+        },
+        {
+            "name": "Tacos el Carcelero",
+            "address": "Insurgentes Sur 756",
+            "rank": 4,
+            "lat": 55.665,
+            "lng": 99.569,
+            "media": {
+                "header": "/img/default.jpg",
+                "menu": [
+                    "/img/taco_bistec.jpg",
+                    "/img/taco_cecina.jpg",
+                    "/img/taco_costilla.jpg",
+                    "/img/taco_pastor.jpg",
+                    "/img/taco_pechuga.jpg",
+                    "/img/taco_suadero.jpg",
+                    "/img/taco_tripa.jpg",
+                    "/img/taco_chorizo.jpg"
+                ]
+            },
+            "commets": [],
+            "type": ["Pastor", "Suadero", "Bistec", "Pechuga", "Cecina", "Tripa", "Chorizo"]
+        },
+        {
+            "name": "Don Panchito",
+            "address": "Insurgentes Sur 756",
+            "rank": 5,
+            "lat": 55.665,
+            "lng": 99.569,
+            "media": {
+                "header": "",
+                "menu": [
+                    "/img/taco_suadero.jpg"
+                ]
+            },
+            "commets": [],
+            "type": ["Suadero"]
+        },
+        {
+            "name": "Los de Meave",
+            "address": "Insurgentes Sur 756",
+            "rank": 5,
+            "lat": 55.665,
+            "lng": 99.569,
+            "media": {
+                "header": "/img/default.jpg",
+                "menu": [
+                    "/img/taco_bistec.jpg",
+                    "/img/taco_cecina.jpg",
+                    "/img/taco_costilla.jpg",
+                    "/img/taco_pastor.jpg",
+                    "/img/taco_pechuga.jpg",
+                    "/img/taco_suadero.jpg",
+                    "/img/taco_tripa.jpg",
+                    "/img/taco_chorizo.jpg"
+                ]
+            },
+            "commets": [],
+            "type": ["Pastor", "Suadero", "Bistec", "Pechuga", "Cecina", "Chorizo"]
+        }
+    ]
+}
