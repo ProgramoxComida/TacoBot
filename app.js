@@ -48,7 +48,7 @@ bot.dialog('/', [
 
 bot.dialog('/start', [
     (session) => {
-        session.send("Yo soy Taco Bot, su proveedor de informacion sobre Tacos!\n Mi proposito en la vida es ayuarte a encontrar informacion sobre los mejores tacos en la Ciudad de Mexico."); 
+        session.send("Yo soy Taco Bot, su proveedor de informacion sobre Tacos!\n Mi proposito en la vida es ayudarte a encontrar informacion sobre los mejores tacos en la Ciudad de Mexico."); 
         session.sendTyping();
         if (!session.userData.name) {
             session.replaceDialog('/profile');
